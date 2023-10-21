@@ -81,7 +81,7 @@ main{
 }
 main img.img-pequena{
     display: block;
-    max-width: 300px;
+    max-width: 200px;
     margin: auto;
 }
 main> img{
