@@ -84,9 +84,8 @@ main img.img-pequena{
     max-width: 200px;
     margin: auto;
 }
-main> img{
-    width: 100%;
-}
+
+
 div.video{
     background-color: var(--cor6);
     margin: 0px -20px 30px -20px;
