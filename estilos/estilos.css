@@ -33,7 +33,7 @@ header{
 header>h1{
     color: white;
     font-family: var(--font-destaque);
-    margin-bottom: 10px;
+    padding-bottom: 10px;
     font-size: 3.0em;
     text-shadow: 2px 2px 0px #0000005a;
 }
